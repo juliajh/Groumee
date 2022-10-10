@@ -1,11 +1,14 @@
 # Groumee
-약속 시간 조율을 도와주는 서비스 🕐
 
-![화면 캡처 2022-10-11 005926](https://user-images.githubusercontent.com/54497150/194909264-c1f973bc-b209-4eac-aa2f-e24cf9b71223.png)
-![화면 캡처 2022-10-11 004657](https://user-images.githubusercontent.com/54497150/194909275-2aa6d686-3f1c-456a-b332-10605f9f8aa4.png)
-![Untidftled](https://user-images.githubusercontent.com/54497150/194909511-f9ff2704-2b3e-4075-b74a-63b3e68c73a7.png)
-
-
-![Untitledd](https://user-images.githubusercontent.com/54497150/194909524-8a615b4e-a6c0-4e23-bfde-f8c34e2b277b.png)
-![Untitled](https://user-images.githubusercontent.com/54497150/194909515-3c9ce689-3532-4445-9099-7abcefa88db0.png)
-![Untitledsfd](https://user-images.githubusercontent.com/54497150/194909522-a2474b6e-2478-4c94-aacd-d3178cdf86a2.png)
+약속 시간 조율을 도와주는 서비스 🕐<br>
+<img src="https://user-images.githubusercontent.com/54497150/194909264-c1f973bc-b209-4eac-aa2f-e24cf9b71223.png" width=500px height=180px> <br>
+평소엔 개인 웹캘린더로 쓰다가, 약속을 잡을 친구들끼리 그룹을 만들면 그룹 내 인원들의 개인 캘린더를 종합해 일정이 비는 날을 쉽게 확인할 수 있고 약속을 잡을 수 있습니다.
+<br><br><br>
+<img src="https://user-images.githubusercontent.com/54497150/194912829-3e59674a-30f6-4da3-8425-eba6ac6c98b6.png" >
+<div style="float:left;">
+<img src="https://user-images.githubusercontent.com/54497150/194912837-25bf4c72-e127-42f8-8d00-8d4a27e905c6.png" width=530px height=230px>
+<img src="https://user-images.githubusercontent.com/54497150/194912840-70ba9334-8460-45bc-b7bf-812faeda858b.png" width=530px height=300px>
+</div>
+<img src="https://user-images.githubusercontent.com/54497150/194912841-1294cc76-9b1c-463c-b600-2a0d6484ab3f.png">
+<img src="https://user-images.githubusercontent.com/54497150/194912842-43ab78cc-dac2-4313-909b-9ea4e6cc7672.png">
+<img src="https://user-images.githubusercontent.com/54497150/194912845-83bb336b-83c8-4f76-8a91-b33a2deafdff.png">
